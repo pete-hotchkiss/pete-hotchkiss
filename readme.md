@@ -9,5 +9,5 @@ I head up design and f/e engineering at a FTSE250 corp, in London, UK.
 ### Current Side Projects
 |name|description|
 |---|---|
-|`project-beardy`| Electron and mobile app for scoring cricket matches. Built using Electron, Aurelia and RxDB |
+|`project-beardy`| Electron and mobile app for scoring cricket matches. Built using Electron, Aurelia and RxDB. See [website](http://projectbeardy.app) |
 |`captain-lama` & `lama-server`| Sketch plugin to populate designs with custom marine data. Node service layer in Typescript and Marble JS provides API service layer |
