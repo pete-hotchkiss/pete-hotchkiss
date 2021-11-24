@@ -18,7 +18,7 @@ I head up design and f/e engineering for enterprise B2B software teams - most re
 ### Current Side Projects
 |name|description|
 |---|---|
-|`project-beardy`| Electron and mobile app for scoring cricket matches. Built using Electron, Aurelia and RxDB. See [website](http://projectbeardy.app) |
+|`project-beardy`| Electron and mobile app for scoring cricket matches. Built using Electron, Aurelia and RxDB. See [website](http://projectbeardy.app) and ongoing [documentation](https://pete-hotchkiss.github.io/beardy-docs/) built using the Retype tooling|
 |`captain-lama` & `lama-server`| Sketch plugin to populate designs with custom marine data. Node service layer in Typescript and Marble JS provides API service layer |
 
 [![Twitter](https://img.shields.io/badge/@petehotchkiss-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/pete-hotchkiss)
