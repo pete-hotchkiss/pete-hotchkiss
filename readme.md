@@ -3,8 +3,8 @@
 I head up design and f/e engineering for enterprise B2B software teams - most recently at a FTSE250 corp, in London, UK working within the commodities and shipping space
 
 * Design systems + Design Ops
-* Product and Service design
-* Engineering: React, Angular and Aurelia frameworks. Typescript, vanila JS + Node
+* Product/Service Design
+* Engineering: React, Angular and Aurelia frameworks. Typescript, Vanila JS + Node
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pete-hotchkiss&count_private=true&show_icons=true&hide=stars&custom_title=Activity%20Metrics)
 
@@ -16,8 +16,8 @@ I head up design and f/e engineering for enterprise B2B software teams - most re
  <img src="https://img.shields.io/badge/aurelia-%23FAFAFA.svg?&style=for-the-badge&logo=aurelia&logoColor=ED2B88" valign="middle"> <img src="https://img.shields.io/badge/react-%23FAFAFA.svg?&style=for-the-badge&logo=react&logoColor=20232a" valign="middle"> <img src="https://img.shields.io/badge/angular-%23FAFAFA.svg?&style=for-the-badge&logo=angular&logoColor=DD0031" valign="middle">  ・  <img src="https://img.shields.io/badge/-jest-%23FAFAFA?&style=for-the-badge&logo=jest&logoColor=C21325" valign="middle"> <img src="https://img.shields.io/badge/-cypress-%23FAFAFA?&style=for-the-badge&logo=cypress&logoColor=058a5e" valign="middle">  ・  <img src="https://img.shields.io/badge/figma-%23FAFAFA.svg?&style=for-the-badge&logo=figma&logoColor=F24E1E" valign="middle"> <img src="https://img.shields.io/badge/Sketch-%23FAFAFA.svg?&style=for-the-badge&logo=Sketch&logoColor=CE9D15" valign="middle"> <img src="https://img.shields.io/badge/adobe-%23FAFAFA.svg?&style=for-the-badge&logo=adobe&logoColor=FF0000" valign="middle">
 
 ### Current Side Projects
-|name|description|
-|---|---|
+|Name|Description|
+|:---|:---|
 |`project-beardy`| Electron and mobile app for scoring cricket matches. Built using Electron, Aurelia and RxDB. See [website](http://projectbeardy.app) and ongoing [documentation](https://pete-hotchkiss.github.io/beardy-docs/) built using the Retype tooling|
 |`captain-lama` & `lama-server`| Sketch plugin to populate designs with custom marine data. Node service layer in Typescript and Marble JS provides API service layer |
 
